@@ -1,0 +1,33 @@
+/* Escribe tu css aqui */
+.bloque{
+		height: 60px;
+		width: 900px;
+		display: block;
+}
+.Amarillo{
+	background-color: yellow;
+}
+.Rojo{
+	background-color: red;
+}
+
+.dos{
+	height: 100px;
+	width: 200px;
+	display: block;
+	margin-bottom: 5px;
+}
+
+
+.tres{
+	height: 100px;
+	width: 200px;
+	display: inline-block;
+	margin-right: 5px;
+	}
+.cuatro{
+	display: inline;
+	margin-right: 8px;
+	padding: 10px 10px 10px 10px;
+
+}
